@@ -50,6 +50,9 @@ php artisan serve
 
 Open `http://localhost:8000`
 
+Can also be accessed on railway:
+php-health-tracker-production.up.railway.app
+
 ## Usage
 
 **Login**: Enter any username (try `john_doe` or `jane_smith`) - no password needed.
